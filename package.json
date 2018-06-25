@@ -1,0 +1,26 @@
+{
+  "name": "imgur-kairos-trainer",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donmorton/imgur-kairos-trainer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donmorton/imgur-kairos-trainer/issues"
+  },
+  "homepage": "https://github.com/donmorton/imgur-kairos-trainer#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
